@@ -1,11 +1,20 @@
 ---
-title: "sandraam22.github.io"
+title: "Sandra Aguilera Moyano"
+image: media/DSC_0282.jpg
+toc: false
+about: 
+ template: jolla
+ image-shape: round
+ image-width: 17em
+ links: 
+   - text: LinkedIn
+     href: https://www.linkedin.com/in/sandraam/
+   - text: GitHub
+     href: https://github.com/sandraam22
+   - text: Email
+     href: mailto::sandra.aguilera@institutmetropoli.cat
 ---
 
-This is a Quarto website.
+Esta es la web personal de Sandra Aguilera Moyano.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+"Work under construction"
